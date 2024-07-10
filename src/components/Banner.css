@@ -1,0 +1,52 @@
+.banerdiv{
+    display: flex;
+}
+
+
+.banner-1{
+    width: 50%;
+    height: 270px;
+    position: relative;
+    padding: 0px 0px;
+}
+.banner-2{
+    width: 50%;
+    height: 270px;
+    position: relative;
+    padding: 0px 0px;
+} 
+
+.endirim{
+   
+    width: 500px;
+}
+.endirimcircle{
+    position: absolute;
+    font-size: 130px;
+    z-index: 99999;
+    right: 690px ;
+    padding: 0px 0px;
+    top: 2435px;
+    opacity: .7;
+    color:white;
+}
+.faizmiqdari{
+    position: absolute;
+    font-size: 40px;
+    z-index: 99999;
+    right: 710px ;
+    padding: 0px 0px;
+    top: 2489px;
+  
+    color:#C2080F;
+}
+.faizisaresi{
+    position: absolute;
+    font-size: 35px;
+    z-index: 99999;
+    right: 730px ;
+    padding: 0px 0px;
+    top: 2530px;
+  
+    color: #C2080F;
+}
