@@ -1,9 +1,10 @@
 import React from 'react'
+import Cards from './Cards'
 
 const Pages = () => {
   return (
     <div>
-      Pages page
+      <Cards/>
     </div>
   )
 }

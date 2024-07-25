@@ -3,6 +3,7 @@ import HomeSlider from "../components/HomeSlider";
 import NewArrivial from "../components/NewArrivial";
 import Cards from "./Cards";
 import Banner from "../components/Banner";
+import Footer from "../components/Footer";
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
       <NewArrivial/>
       <Cards/>
       <Banner/>
+      <Footer/>
     </div>
   );
 };

@@ -1,0 +1,147 @@
+.shoppage{
+    height: 230px;
+    background-color: #f6f6f6;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    
+}
+
+.shoppage h2{
+    margin-left: 130px;
+}
+
+.shoppagebtn{
+    margin-left: auto;
+    margin-right: 100px;
+    font-size: 23px;
+    color: #666666;
+}
+
+/* -------------------------------------- */
+
+.aside{
+    width: 700px;
+    /* list-style-type:none; */
+    padding-left: 100px;
+}
+
+.category li{
+    list-style-type: none;
+}
+.category a{
+    color: #666666;
+}
+
+
+
+.color li{
+    list-style-type: none;
+  
+}
+/* .color a{
+    /* color:#666666; 
+  
+} */
+
+.price li{
+    list-style-type: none;
+}
+.price a{
+    color: #666666;
+}
+.price span{
+    color: white;
+}
+
+.brand li{
+    list-style-type: none;
+
+}
+.brand a{
+    color: #666666;
+}
+.brand span{
+    color: white;
+}
+
+/* ------------ */
+.redcolor{
+    border-style: solid;
+    background-color: red;
+    color: aliceblue;
+    border-color: red;   
+}
+.pinkcolor{
+    border-style: solid;
+    background-color:pink;
+    color: aliceblue;
+    border-color: pink; 
+}
+.blackcolor{
+    border-style: solid;
+    background-color:black;
+    color: aliceblue;
+    border-color: black; 
+}
+.browncolor{
+    border-style: solid;
+    background-color:brown;
+    color: aliceblue;
+    border-color: brown; 
+}
+.bluecolor{
+    border-style: solid;
+    background-color:blue;
+    color: aliceblue;
+    border-color: blue; 
+}
+.greycolor{
+    border-style: solid;
+    background-color:grey;
+    color: aliceblue;
+    border-color: grey; 
+}
+.cholatecolor{
+    border-style: solid;
+    background-color:chocolate;
+    color: aliceblue;
+    border-color: chocolate; 
+}
+
+
+
+
+
+
+
+
+.shopmain{
+    display: flex;
+}
+
+.sortingcards{
+    display: flex;
+    flex-direction: column;
+}
+
+.sortingbtn{
+    /* width: 200px; */
+    /* background-attachment: fixed; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.dropdown-toggle{
+    width: 200px;
+    border: 1px solid #f6f6f6;
+    background-color: #666666;
+}
+
+.among{
+    display: flex;
+    margin-left: 400px;
+    color: #666666;
+}
